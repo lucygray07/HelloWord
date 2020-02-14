@@ -10,3 +10,6 @@ public static void main (int k)
 System.out.println("This is Hello World for second main=="+k);
 }
 }
+
+
+thank
